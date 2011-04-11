@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;video src="$1" poster="${2:poster.jpg}" width="${3:320}" height="${4:240}"${5: controls="controls"}${6: preload="preload"}&gt;
+	${7:&lt;p&gt;Your browser does not support the video element.&lt;/p&gt;}$0
+&lt;/video&gt;</string>
+	<key>name</key>
+	<string>video</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>video</string>
+	<key>uuid</key>
+	<string>8DC1EF06-778C-4CB1-8F88-D3416CF6183D</string>
+</dict>
+</plist>

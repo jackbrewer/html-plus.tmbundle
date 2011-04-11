@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class="$1"$0</string>
+	<string>&lt;audio src="$1"${2: autoplay="autoplay"}${3: controls="controls"} preload="${4:metadata}"&gt;
+	${5:&lt;p&gt;Your browser does not support the audio element.&lt;/p&gt;}$0
+&lt;/audio&gt;</string>
 	<key>name</key>
-	<string>class=""</string>
+	<string>audio</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>.</string>
+	<string>audio</string>
 	<key>uuid</key>
-	<string>8CB02273-A378-4F7A-BCB5-CE3334A8B43D</string>
+	<string>2C536327-38CB-4793-9E1C-96153FCDF1C9</string>
 </dict>
 </plist>

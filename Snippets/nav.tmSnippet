@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class="$1"$0</string>
+	<string>&lt;nav&gt;
+	$0
+&lt;/nav&gt;</string>
 	<key>name</key>
-	<string>class=""</string>
+	<string>nav</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>.</string>
+	<string>nav</string>
 	<key>uuid</key>
-	<string>8CB02273-A378-4F7A-BCB5-CE3334A8B43D</string>
+	<string>C8FF30FE-49E1-4286-ADC6-6F2F9F7C9178</string>
 </dict>
 </plist>

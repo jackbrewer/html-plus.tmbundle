@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class="$1"$0</string>
+	<string>disabled="${1:disabled}"$0</string>
 	<key>name</key>
-	<string>class=""</string>
+	<string>disabled=""</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>.</string>
+	<string>disabled</string>
 	<key>uuid</key>
-	<string>8CB02273-A378-4F7A-BCB5-CE3334A8B43D</string>
+	<string>C7C63EFE-88DE-4C8C-AD03-BA8132A88DEF</string>
 </dict>
 </plist>

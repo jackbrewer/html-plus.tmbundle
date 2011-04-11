@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;meter${1: title="${2:unit}"}${3: value="${4:91}"}${5: min="${6:0}"}${7: max="${8:100}"}${9: low="${10:40}"}${11: high="${12:90}"}${13: optimum="${14:100}"}&gt;${15:$TM_SELECTED_TEXT}&lt;/meter&gt;$0</string>
+	<key>name</key>
+	<string>meter</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>meter</string>
+	<key>uuid</key>
+	<string>E3013C1F-1490-4B27-A01F-70ADEEC9C612</string>
+</dict>
+</plist>

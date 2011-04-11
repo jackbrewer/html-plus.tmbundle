@@ -9,8 +9,8 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>.</string>
+	<string>class</string>
 	<key>uuid</key>
-	<string>8CB02273-A378-4F7A-BCB5-CE3334A8B43D</string>
+	<string>0F5441F1-5772-43D3-92F7-E53A70AD81BA</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class="$1"$0</string>
+	<string>&lt;hr /&gt;$0</string>
 	<key>name</key>
-	<string>class=""</string>
+	<string>hr</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>.</string>
+	<string>hr</string>
 	<key>uuid</key>
-	<string>8CB02273-A378-4F7A-BCB5-CE3334A8B43D</string>
+	<string>B3E7D482-D804-46DE-9EAE-D312EB90912E</string>
 </dict>
 </plist>

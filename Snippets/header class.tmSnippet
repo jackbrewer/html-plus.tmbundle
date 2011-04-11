@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class="$1"$0</string>
+	<string>&lt;header${1: class="$2"}&gt;
+	$0
+&lt;/header&gt;</string>
 	<key>name</key>
-	<string>class=""</string>
+	<string>header class</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>.</string>
+	<string>header</string>
 	<key>uuid</key>
-	<string>8CB02273-A378-4F7A-BCB5-CE3334A8B43D</string>
+	<string>CB8B55A9-DD6E-4AF1-B0DD-3F358F89451D</string>
 </dict>
 </plist>

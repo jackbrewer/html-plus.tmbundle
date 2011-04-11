@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>alt=""</string>
 	<key>scope</key>
-	<string>meta.tag.any.html</string>
+	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>alt</string>
 	<key>uuid</key>

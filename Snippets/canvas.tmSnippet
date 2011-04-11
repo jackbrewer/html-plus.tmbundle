@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class="$1"$0</string>
+	<string>&lt;canvas${1: id="$2"}&gt;
+	${3:&lt;p&gt;Your browser does not support the canvas element.&lt;/p&gt;}$0
+&lt;/canvas&gt;</string>
 	<key>name</key>
-	<string>class=""</string>
+	<string>canvas</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>.</string>
+	<string>canvas</string>
 	<key>uuid</key>
-	<string>8CB02273-A378-4F7A-BCB5-CE3334A8B43D</string>
+	<string>AEF0EC84-B8B5-415C-9CF8-D1CB46975BE1</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class="$1"$0</string>
+	<string>&lt;time${1: datetime="${2:${3:2015}-${4:10}-${5:21}T${6:07}:${7:28}:${8:00}+${9:00:00}}"}&gt;${10:${11:October} ${5}${12:st} ${3}${13: at }${6}:${7}${14:am}}&lt;/time&gt;$0</string>
 	<key>name</key>
-	<string>class=""</string>
+	<string>time</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>.</string>
+	<string>time</string>
 	<key>uuid</key>
-	<string>8CB02273-A378-4F7A-BCB5-CE3334A8B43D</string>
+	<string>02B7E831-E167-4623-94A7-1DDC9B262B30</string>
 </dict>
 </plist>
