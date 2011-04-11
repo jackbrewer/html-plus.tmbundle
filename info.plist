@@ -7,9 +7,23 @@
 		<key>items</key>
 		<array>
 			<string>861CDF58-7459-4A7E-8A43-34A52860ED27</string>
+			<string>1C17AEE2-C037-438D-9902-1EF7013BCAA9</string>
+			<string>------------------------------------</string>
+			<string>5DBCB2AA-56F2-411A-9A97-CB66EB46E0FA</string>
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>1C17AEE2-C037-438D-9902-1EF7013BCAA9</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>CCEE1590-3B6B-4441-9204-B709C587ACA1</string>
+					<string>0C05ECEF-4815-4ADB-BFEB-FE85BD573FEF</string>
+					<string>C5F89FCD-3339-440B-9BFD-4BCA555D6FE3</string>
+				</array>
+				<key>name</key>
+				<string>Structure</string>
+			</dict>
 			<key>861CDF58-7459-4A7E-8A43-34A52860ED27</key>
 			<dict>
 				<key>items</key>
@@ -40,6 +54,7 @@
 		<string>76D80C88-9D41-4DC5-B5A4-D080F277CC9B</string>
 		<string>0C05ECEF-4815-4ADB-BFEB-FE85BD573FEF</string>
 		<string>C5F89FCD-3339-440B-9BFD-4BCA555D6FE3</string>
+		<string>5DBCB2AA-56F2-411A-9A97-CB66EB46E0FA</string>
 	</array>
 	<key>uuid</key>
 	<string>B8D9A069-F5B7-4879-BFFC-7BAA843AF60B</string>
