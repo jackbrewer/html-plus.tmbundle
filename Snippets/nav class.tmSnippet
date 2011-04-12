@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;nav${1: class="$2"}&gt;
+	<string>&lt;nav class="$2"&gt;
 	$0
 &lt;/nav&gt;</string>
 	<key>name</key>

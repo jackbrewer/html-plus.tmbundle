@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;header${1: id="$2"}&gt;
+	<string>&lt;header id="$1"&gt;
 	$0
 &lt;/header&gt;</string>
 	<key>name</key>

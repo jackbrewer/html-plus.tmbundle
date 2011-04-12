@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;footer${1: id="$2"}&gt;
+	<string>&lt;footer id="$1"&gt;
 	$0
 &lt;/footer&gt;</string>
 	<key>name</key>

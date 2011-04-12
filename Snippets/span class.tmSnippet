@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;footer class="$1"&gt;
-	$0
-&lt;/footer&gt;</string>
+	<string>&lt;span class="$1"&gt;${2:$TM_SELECTED_TEXT}&lt;/span&gt;$0</string>
 	<key>name</key>
-	<string>footer class</string>
+	<string>span class</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>footer</string>
+	<string>span</string>
 	<key>uuid</key>
-	<string>BB744B3E-33A4-48E5-AA7E-38A0BCD763F5</string>
+	<string>E71DE38D-3F51-4F1E-8DFA-ADFFB910D1B5</string>
 </dict>
 </plist>
