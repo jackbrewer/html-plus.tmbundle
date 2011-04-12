@@ -17,3 +17,15 @@ Clone the bundle - once you have it, reload your bundles in TextMate and it will
 	git clone git://github.com/jackbb/HTML-JackBB.tmbundle.git "HTML-JackBB.tmbundle"
 
 You can easily update the bundle through the TextMate menus by going to *'Bundles > HTML - Jack BB > Update Bundle via Git'*.
+
+### TODO
+
+Add more tags
+
+Add commands for formatting lists etc
+
+Add keyboard shortcuts to everything
+
+Organise the bundle menu structure
+
+Extend the default TextMate HTML language to allow for HTML5 elements *(If you know how to do this, let me know and save me a lot of google hours!)*
