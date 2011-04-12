@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;div id="$1"&gt;
-	$0
-&lt;/div&gt;</string>
+	<string>&lt;a href="mailto:${1:$TM_SELECTED_TEXT}${2:?subject=${3:feedback}}"${5: title="${6:Send an email to $1}"}&gt;${4:$1}&lt;/a&gt;$0</string>
+	<key>keyEquivalent</key>
+	<string>^@a</string>
 	<key>name</key>
-	<string>div id</string>
+	<string>a mailto</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>div</string>
+	<string>a</string>
 	<key>uuid</key>
-	<string>090704B3-B0B7-460C-8FBD-1A157688C7B3</string>
+	<string>B0667C04-CB0E-452C-AEF3-8476FF7076D5</string>
 </dict>
 </plist>

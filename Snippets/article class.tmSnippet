@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;article${1: class="$2"}&gt;
+	<string>&lt;article class="$2"&gt;
 	$0
 &lt;/article&gt;</string>
 	<key>name</key>
