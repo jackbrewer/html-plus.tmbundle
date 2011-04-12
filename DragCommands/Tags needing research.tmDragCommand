@@ -7,9 +7,15 @@
 	<key>command</key>
 	<string>Elements
 
+select
+option
+optgroup
 area
 audio with nested &lt;source&gt;
 command (HTML5)
+dd
+dl
+dt
 output
 progress
 rp
@@ -18,6 +24,13 @@ ruby
 source
 video with nested &lt;source&gt;
 
+jQuery
+meta tags
+favicons
+apple icons
+font squirrel FF syntax
+
+Improve time tag logic with bash date conversion
 
 Attributes
 
@@ -30,7 +43,7 @@ novalidate</string>
 	<key>input</key>
 	<string>selection</string>
 	<key>name</key>
-	<string>Tags needing research</string>
+	<string>TODO</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>uuid</key>

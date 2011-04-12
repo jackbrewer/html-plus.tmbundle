@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;time${1: datetime="${2:${3:`date +%Y`}-${4:`date +%m`}-${5:`date +%d`}T${6:`date +%H`}:${7:`date +%M`}:${8:`date +%S`}+${9:00:00}}"}${10: pubdate}&gt;${11:${12:`date +%B`} ${5}${13:th} ${3}${14: at }${6}:${7}${15:am}}&lt;/time&gt;$0</string>
+	<string>&lt;time${1: datetime="${2:${3:`date +%Y`}-${4:`date +%m`}-${5:`date +%d`}T${6:`date +%H`}:${7:`date +%M`}:${8:`date +%S`}+${9:00:00}}"}${10: pubdate}&gt;${11:${12:`date +%B`} ${5} ${3}${13: - }${14:`date +%I`}:${7}${15:`date +%p`}}&lt;/time&gt;$0</string>
 	<key>name</key>
 	<string>time</string>
 	<key>scope</key>

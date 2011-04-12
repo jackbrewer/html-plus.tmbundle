@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>&lt;ol&gt;
-	${0}
+	$0
 &lt;/ol&gt;</string>
 	<key>name</key>
 	<string>ol</string>
