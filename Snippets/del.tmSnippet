@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;del${1: datetime="${2:${3:`date +%Y`}-${4:`date +%m`}-${5:`date +%d`}T${6:`date +%H`}:${7:`date +%M`}:${8:`date +%S`}+${9:00:00}}"}${10: cite="${11}"}&gt;${12}&lt;/del&gt;$0</string>
+	<key>name</key>
+	<string>del</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>del</string>
+	<key>uuid</key>
+	<string>D4302EAD-3EE8-45A7-A2B9-D8EE69834D05</string>
+</dict>
+</plist>
