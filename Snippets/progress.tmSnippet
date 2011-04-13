@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;th&gt;${1:$TM_SELECTED_TEXT}&lt;/th&gt;$0</string>
+	<string>&lt;progress${1: value="${2:75}"}${3: max="${4:100}"}&gt;${5:&lt;span&gt;${6:75}&lt;/span&gt;}${7:%}&lt;/progress&gt;$0</string>
 	<key>name</key>
-	<string>th</string>
+	<string>progress</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>th</string>
+	<string>progress</string>
 	<key>uuid</key>
-	<string>879AC2E8-05DD-4394-BDA9-37817D8E6D18</string>
+	<string>D2CB0289-DBA6-4684-AA27-2B72FA964A29</string>
 </dict>
 </plist>

@@ -13,9 +13,6 @@ optgroup
 area
 audio with nested &lt;source&gt;
 command (HTML5)
-dd
-dl
-dt
 output
 progress
 rp

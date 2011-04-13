@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;th&gt;${1:$TM_SELECTED_TEXT}&lt;/th&gt;$0</string>
+	<string>http://dummyimage.com/${1:600}x${2:400}${3:/${4:CCCCCC}/${5:FFFFFF}}.${6:jpg}${7:&amp;text=${8:placeholder+image}}$0</string>
 	<key>name</key>
-	<string>th</string>
+	<string>Dummy Image</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>th</string>
+	<string>dimg</string>
 	<key>uuid</key>
-	<string>879AC2E8-05DD-4394-BDA9-37817D8E6D18</string>
+	<string>FB85D441-597D-450E-861F-5C11D8392D77</string>
 </dict>
 </plist>

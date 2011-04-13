@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;td&gt;$1&lt;/td&gt;$0</string>
+	<string>&lt;td&gt;${1:$TM_SELECTED_TEXT}&lt;/td&gt;$0</string>
 	<key>name</key>
 	<string>td</string>
 	<key>scope</key>

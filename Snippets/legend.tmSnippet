@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;th&gt;${1:$TM_SELECTED_TEXT}&lt;/th&gt;$0</string>
+	<string>&lt;legend&gt;$1&lt;/legend&gt;$0</string>
 	<key>name</key>
-	<string>th</string>
+	<string>legend</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>th</string>
+	<string>legend</string>
 	<key>uuid</key>
-	<string>879AC2E8-05DD-4394-BDA9-37817D8E6D18</string>
+	<string>4ED0E676-225B-4D9D-9736-933445C5ED17</string>
 </dict>
 </plist>
