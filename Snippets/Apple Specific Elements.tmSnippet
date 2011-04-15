@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:${2:&lt;!-- Enabling full screen Web App appearance for iOS 2.1+ -&gt; Causes low resolution Touch Icon to be used on &lt; iOS 4.1 --&gt;}
+${3:&lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;}
+${4:&lt;meta name="apple-mobile-web-app-status-bar-style" content="black"&gt;}
+}${5:${6:&lt;!-- Defining interface characteristics --&gt;}
+${7:&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;"/&gt;}
+}${8:${9:&lt;!-- Addition of Home Screen icon to work in iOS 2.0+, Android 2.1+ --&gt;}
+${10:&lt;link rel="apple-touch-icon-precomposed" href="resource/image/apple/apple-touch-icon-precomposed.png?v=@VERSION-NUMBER@" /&gt;}
+}${11:${12:&lt;!-- Addition of Launch Screen image for iOS --&gt;}
+${13:&lt;link rel="apple-touch-startup-image" href="resource/image/apple/apple-startup.png?v=@VERSION-NUMBER@" /&gt;}}</string>
+	<key>name</key>
+	<string>Apple Specific Elements</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>ios</string>
+	<key>uuid</key>
+	<string>CE32F457-8351-4F1B-8C13-AB853DF88204</string>
+</dict>
+</plist>

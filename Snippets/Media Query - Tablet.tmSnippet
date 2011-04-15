@@ -3,14 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>http://dummyimage.com/${1:600}x${2:400}${3:/${4:CCCCCC}/${5:FFFFFF}}.${6:jpg}${7:&amp;amp;text=${8:placeholder+image}}</string>
+	<string>${1:&lt;!-- Media Query for Phone  --&gt;}
+&lt;link rel="stylesheet" media="all and (max-device-width: 480px)" href="${2:resource/css/phone.css}"&gt;</string>
 	<key>name</key>
-	<string>Dummy Image</string>
+	<string>Media Query - Tablet</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>dummyimage</string>
+	<string>media</string>
 	<key>uuid</key>
-	<string>97FDAB93-7E23-402F-B103-1DAA115C4DB2</string>
+	<string>5AE87F76-8B2F-4898-BE68-EA3E3DF978C2</string>
 </dict>
 </plist>

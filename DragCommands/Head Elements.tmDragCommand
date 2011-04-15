@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>Elements
+
+select
+option
+optgroup
+area
+audio with nested &lt;source&gt;
+command (HTML5)
+output
+progress
+rp
+rt
+ruby
+source
+video with nested &lt;source&gt;
+
+jQuery
+meta tags
+favicons
+apple icons
+font squirrel FF syntax
+
+Improve time tag logic with bash date conversion
+
+Attributes
+
+type="date" - http://diveintohtml5.org/forms.html#type-date
+type="color" - http://diveintohtml5.org/forms.html#type-color
+required
+novalidate</string>
+	<key>draggedFileExtensions</key>
+	<array/>
+	<key>input</key>
+	<string>selection</string>
+	<key>name</key>
+	<string>Head Elements</string>
+	<key>output</key>
+	<string>insertAsSnippet</string>
+	<key>uuid</key>
+	<string>944CB86E-D74D-486D-956F-FAE16B5017DD</string>
+</dict>
+</plist>

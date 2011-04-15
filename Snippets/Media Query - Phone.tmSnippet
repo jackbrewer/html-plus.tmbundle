@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:&lt;!-- Media Query for Tablet  --&gt;}
+&lt;link rel="stylesheet" media="all and (min-device-width: 481px) and (max-device-width: 1024px)" ${2:href="resource/css/tablet.css}"&gt;</string>
+	<key>name</key>
+	<string>Media Query - Phone</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>media</string>
+	<key>uuid</key>
+	<string>D634FCE8-3D8E-4080-A7C8-68C43787BB83</string>
+</dict>
+</plist>
