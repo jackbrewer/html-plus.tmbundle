@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;article class="$1"&gt;
-	$0
-&lt;/article&gt;</string>
+	<string>&lt;noscript&gt;
+	${1:&lt;p&gt;Your browser does not have Javascript enabled.&lt;/p&gt;}$0
+&lt;/noscript&gt;</string>
 	<key>name</key>
-	<string>article class</string>
+	<string>noscript</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>article</string>
+	<string>noscript</string>
 	<key>uuid</key>
-	<string>725C1CCE-49B1-431C-8258-77352B116CB6</string>
+	<string>04FAD4AF-8BA9-4A33-94B4-97BD0076AF53</string>
 </dict>
 </plist>

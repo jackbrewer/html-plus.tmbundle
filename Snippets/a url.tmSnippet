@@ -4,8 +4,6 @@
 <dict>
 	<key>content</key>
 	<string>&lt;a href="${1:$TM_SELECTED_TEXT}"${3: title="${4:$2}"}&gt;${2:$TM_SELECTED_TEXT}&lt;/a&gt;$0</string>
-	<key>keyEquivalent</key>
-	<string>^@a</string>
 	<key>name</key>
 	<string>a url</string>
 	<key>scope</key>

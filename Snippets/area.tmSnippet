@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;article class="$1"&gt;
-	$0
-&lt;/article&gt;</string>
+	<string>&lt;area shape="${1:rect}" coords="${2:${3:0},${4:0},${5:100},${6:100}}" href="${7:#}" alt="$8" /&gt;$0</string>
 	<key>name</key>
-	<string>article class</string>
+	<string>area</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>article</string>
+	<string>area</string>
 	<key>uuid</key>
-	<string>725C1CCE-49B1-431C-8258-77352B116CB6</string>
+	<string>E58A3C5B-B05D-48C3-A42D-F4B1F56C2B4D</string>
 </dict>
 </plist>

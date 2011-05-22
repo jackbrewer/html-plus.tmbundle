@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;details&gt;${1:$TM_SELECTED_TEXT}&lt;/details&gt;$0</string>
+	<string>&lt;summary&gt;${1:$TM_SELECTED_TEXT}&lt;/summary&gt;$0</string>
 	<key>name</key>
 	<string>details</string>
 	<key>scope</key>
@@ -11,6 +11,6 @@
 	<key>tabTrigger</key>
 	<string>details</string>
 	<key>uuid</key>
-	<string>5E99B797-15C9-42E3-ACE2-F9130317E6EF</string>
+	<string>39224129-7413-4ED1-80B7-7CE6675E821D</string>
 </dict>
 </plist>

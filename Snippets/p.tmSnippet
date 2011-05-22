@@ -4,6 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>&lt;p&gt;${1:$TM_SELECTED_TEXT}&lt;/p&gt;$0</string>
+	<key>keyEquivalent</key>
+	<string>^@p</string>
 	<key>name</key>
 	<string>p</string>
 	<key>scope</key>

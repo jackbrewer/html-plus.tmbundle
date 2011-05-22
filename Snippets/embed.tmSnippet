@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;s&gt;${1:$TM_SELECTED_TEXT}&lt;/s&gt;$0</string>
+	<string>&lt;embed type="${1:video/quicktime}" src="${2:movie.mov}" width="${3:640}" height="${4:480}"&gt;$0</string>
 	<key>name</key>
-	<string>s</string>
+	<string>embed</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>s</string>
+	<string>embed</string>
 	<key>uuid</key>
-	<string>03744144-5928-4353-B4D4-CF83359B5B0E</string>
+	<string>3B89A201-7808-469A-ACFB-8C1AE974517A</string>
 </dict>
 </plist>
