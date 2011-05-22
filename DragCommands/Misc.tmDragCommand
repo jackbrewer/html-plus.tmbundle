@@ -5,12 +5,9 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>echo "$TM_DROPPED_FILE"</string>
+	<string>Used as a menu seperator</string>
 	<key>draggedFileExtensions</key>
-	<array>
-		<string>png</string>
-		<string>jpg</string>
-	</array>
+	<array/>
 	<key>input</key>
 	<string>selection</string>
 	<key>name</key>

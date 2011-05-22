@@ -5,36 +5,7 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>Elements
-
-select
-option
-optgroup
-area
-audio with nested &lt;source&gt;
-command (HTML5)
-output
-progress
-rp
-rt
-ruby
-source
-video with nested &lt;source&gt;
-
-jQuery
-meta tags
-favicons
-apple icons
-font squirrel FF syntax
-
-Improve time tag logic with bash date conversion
-
-Attributes
-
-type="date" - http://diveintohtml5.org/forms.html#type-date
-type="color" - http://diveintohtml5.org/forms.html#type-color
-required
-novalidate</string>
+	<string>Used as a menu seperator</string>
 	<key>draggedFileExtensions</key>
 	<array/>
 	<key>input</key>
