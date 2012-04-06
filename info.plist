@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>contactEmailRot13</key>
+	<string>ohaqyrf@wnpxoerjre.pb.hx</string>
+	<key>contactName</key>
+	<string>Jack Brewer</string>
+	<key>description</key>
+	<string>An extension of the original TextMate HTML bundle to include tab-triggers for (nearly) all possible HTML elements and attributes.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>
@@ -315,7 +321,7 @@
 		</dict>
 	</dict>
 	<key>name</key>
-	<string>HTML - JackBB</string>
+	<string>HTML+</string>
 	<key>ordering</key>
 	<array>
 		<string>944CB86E-D74D-486D-956F-FAE16B5017DD</string>
@@ -480,7 +486,6 @@
 		<string>97FDAB93-7E23-402F-B103-1DAA115C4DB2</string>
 		<string>FB85D441-597D-450E-861F-5C11D8392D77</string>
 		<string>5DBCB2AA-56F2-411A-9A97-CB66EB46E0FA</string>
-		<string>5863462C-BE09-406C-A3CF-DC2839204CB9</string>
 	</array>
 	<key>uuid</key>
 	<string>B8D9A069-F5B7-4879-BFFC-7BAA843AF60B</string>
